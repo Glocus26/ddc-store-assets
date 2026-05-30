@@ -11,10 +11,10 @@
     },
     {
       "description": "Le store officiel pour télécharger toutes nos applications internes.",
-      "icon": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_logo/ddc_store_logo1.png",
+      "icon": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_logo/ddc_store_logo.png",
       "name": "Ddc Store",
       "packageName": "com.ddc.store",
-      "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Ddc_store_stable_23.apk",
+      "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Ddc_store_stable.apk",
       "version": "7.1",
       "taille": "10"
     },
