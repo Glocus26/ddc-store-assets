@@ -7,7 +7,8 @@
       "packageName": "com.ddc.ai.image",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/DdcAI_Orson_stable_27.apk",
       "version": "6.0",
-      "taille": "14"
+      "taille": "14",
+      "auteur": "Ddc Apps"
     },
     {
       "description": "Le store officiel pour télécharger toutes nos applications internes.",
@@ -16,7 +17,8 @@
       "packageName": "com.ddc.store",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Ddc_store_stable.apk",
       "version": "8.2",
-      "taille": "10"
+      "taille": "10",
+      "auteur": "Ddc Apps"
     },
     {
       "description": "Avez-vous déjà eu envie de controler vos rêves ?",
@@ -25,7 +27,8 @@
       "packageName": "com.ddc.dreamchoice",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Dreamchoice_stable_3.apk",
       "version": "1.3",
-      "taille": "7"
+      "taille": "7",
+      "auteur": "Ddc Apps"
     },
     {
       "description": "Un jeu de pendu multijoueur fun pour s'amuser entre collègues ou amis.",
@@ -34,7 +37,8 @@
       "packageName": "com.pendu.multi",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Pendu_multi_stable_1.apk",
       "version": "1.0",
-      "taille": "6"
+      "taille": "6",
+      "auteur": "Ddc Apps"
     },
     {
       "description": "App conseillé pour une meilleur utilisation du Ddc Store sans mode root.",
@@ -43,7 +47,8 @@
       "packageName": "moe.shizuku.privileged.api",
       "url": "https://github.com/RikkaApps/Shizuku/releases/download/v13.6.0/shizuku-v13.6.0.r1086.2650830c-release.apk",
       "version": "13.6.0",
-      "taille": "3"
+      "taille": "3",
+      "auteur": "RikkaApps"
     },
     {
       "description": "Découvrez Ddc Chat, un chatbot d'IA dernière génération. Donnez lui des images, PDF,... Utilisez notre modèle qui tourne 100% en local sur votre téléphone, même en mode avion !",
@@ -52,7 +57,8 @@
       "packageName": "com.ddc.ai.chat",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Ddc_Chat_stable_6.apk",
       "version": "2.3",
-      "taille": "20"
+      "taille": "20",
+      "auteur": "Ddc Apps"
     },
     {
       "description": "Un bot pour jouer avec vous au Yathzee! même hors connexion",
@@ -61,7 +67,8 @@
       "packageName": "com.ddc.didi",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Didi_stable_5.apk",
       "version": "1.6",
-      "taille": "7"
+      "taille": "7",
+      "auteur": "Ddc Apps"
     }
   ]
 }
