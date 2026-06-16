@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "description": "Générez des photos jusqu'à la 4K en illimité*",
+      "description": "Générez des photos jusqu'à la 4K grâce à notre modèle boosté par DdcAI 5.",
       "icon": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_logo/orson_logo.png",
       "name": "Orson",
       "packageName": "com.ddc.ai.image",
@@ -51,12 +51,12 @@
       "auteur": "RikkaApps"
     },
     {
-      "description": "Découvrez Ddc Chat, un chatbot d'IA dernière génération. Donnez lui des images, PDF,... Utilisez notre modèle qui respect votre vie privée !",
+      "description": "Découvrez Ddc Chat, un chatbot d'IA dernière génération boosté par DdcAI 5. Donnez lui des images, PDF,... Utilisez notre modèle qui respect votre vie privée !",
       "icon": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_logo/ddc_chat_logo.png",
       "name": "Ddc Chat",
       "packageName": "com.ddc.ai.chat",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Ddc_Chat_stable.apk",
-      "version": "4.0",
+      "version": "4.1",
       "taille": "14",
       "auteur": "Ddc Apps"
     },
