@@ -11,12 +11,12 @@
       "auteur": "Ddc Apps"
     },
     {
-      "description": "Le store officiel pour télécharger toutes nos applications internes.",
+      "description": "Le store officiel pour télécharger toutes nos applications internes. Retrouvez également notre application sur F Droid via le dépôt Ddc Apps.",
       "icon": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_logo/ddc_store_logo.png",
       "name": "Ddc Store",
       "packageName": "com.ddc.store",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Ddc_store_stable.apk",
-      "version": "8.3",
+      "version": "8.4",
       "taille": "10",
       "auteur": "Ddc Apps"
     },
@@ -41,7 +41,7 @@
       "auteur": "Ddc Apps"
     },
     {
-      "description": "App conseillé pour une meilleur utilisation du Ddc Store sans mode root.",
+      "description": "App conseillé pour une meilleur utilisation du Ddc Store sans root.",
       "icon": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_logo/shizuku_logo.png",
       "name": "Shizuku",
       "packageName": "moe.shizuku.privileged.api",
@@ -56,7 +56,7 @@
       "name": "Ddc Chat",
       "packageName": "com.ddc.ai.chat",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Ddc_Chat_stable.apk",
-      "version": "3.0",
+      "version": "4.0",
       "taille": "14",
       "auteur": "Ddc Apps"
     },
