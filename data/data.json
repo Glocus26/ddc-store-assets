@@ -11,7 +11,7 @@
       "auteur": "Ddc Apps"
     },
     {
-      "description": "Le store officiel pour télécharger toutes nos applications internes. Retrouvez également notre application sur F Droid via le dépôt Ddc Apps.",
+      "description": "Le store officiel pour télécharger toutes nos applications internes. Retrouvez également notre application sur F-Droid via le dépôt Ddc Apps.",
       "icon": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_logo/ddc_store_logo.png",
       "name": "Ddc Store",
       "packageName": "com.ddc.store",
