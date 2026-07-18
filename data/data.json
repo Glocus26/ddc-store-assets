@@ -31,9 +31,9 @@
       "auteur": "Ddc Apps"
     },
     {
-      "description": "Un jeu de pendu multijoueur fun pour s'amuser entre collègues ou amis.",
+      "description": "Un jeu de pendu multijoueur fun pour s'amuser entre collègues ou amis. L'application est actuellement en maintenance car le site pendu.ynn.ovh n'est plus accessible 🫤",
       "icon": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_logo/pendu_multi_logo.png",
-      "name": "Pendu Multi",
+      "name": "Pendu Multi (maintenance)",
       "packageName": "com.pendu.multi",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Pendu_multi_stable_1.apk",
       "version": "1.0",
@@ -76,7 +76,7 @@
       "name": "Ddc Cook",
       "packageName": "com.ddc.cook",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Ddc_Cook_stable.apk",
-      "version": "2.3",
+      "version": "2.4",
       "taille": "15",
       "auteur": "Ddc Apps"
     },
