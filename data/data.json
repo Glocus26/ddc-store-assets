@@ -5,8 +5,8 @@
       "icon": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_logo/orson_logo.png",
       "name": "Orson",
       "packageName": "com.ddc.ai.image",
-      "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/DdcAI_Orson_stable_27.apk",
-      "version": "6.0",
+      "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/DdcAI_Orson_stable.apk",
+      "version": "7.0",
       "taille": "14",
       "auteur": "Ddc Apps"
     },
@@ -16,7 +16,7 @@
       "name": "Ddc Store",
       "packageName": "com.ddc.store",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Ddc_store_stable.apk",
-      "version": "8.4",
+      "version": "9.0",
       "taille": "10",
       "auteur": "Ddc Apps"
     },
@@ -56,7 +56,7 @@
       "name": "Ddc Chat",
       "packageName": "com.ddc.ai.chat",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Ddc_Chat_stable.apk",
-      "version": "4.5",
+      "version": "5.0",
       "taille": "91",
       "auteur": "Ddc Apps"
     },
