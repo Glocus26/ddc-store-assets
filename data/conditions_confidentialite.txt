@@ -1,7 +1,24 @@
-1
+2
 Conditions d'utilisation et Confidentialité
-1. Acceptation des conditions En utilisant l'application Ddc Store, vous acceptez de vous conformer aux présentes conditions. L'accès à certaines fonctionnalités nécessite la création d'un Compte Ddc.
-2. Collecte des données Nous collectons votre nom, prénom, email, date de naissance et clé API pour assurer le fonctionnement du service et la synchronisation de votre profil sur les applications de l'écosystème Ddc.
-3. Utilisation de la clé API Votre clé API est personnelle. Vous êtes responsable de sa confidentialité et de toute activité effectuée avec celle-ci.
-4. Sécurité Les données sont stockées de manière sécurisée via Firebase (Google Cloud). Nous ne revendons pas vos données personnelles à des tiers.
-5. Suppression du compte Vous pouvez demander la suppression de votre compte et de vos données à tout moment via le support Ddc.
+
+1. Objet Ddc Store est un magasin d'applications qui permet de consulter un catalogue d'applications de l'écosystème Ddc, de les télécharger et de les installer sur votre appareil. En utilisant l'application, vous acceptez les présentes conditions.
+
+2. Utilisation sans compte (mode invité) Vous pouvez utiliser Ddc Store sans créer de compte, en choisissant "Continuer en tant qu'invité" sur l'écran de connexion. Le mode invité donne accès au catalogue complet, au téléchargement et à l'installation des applications, ainsi qu'aux réglages de thème et de mode d'installation. Aucun compte n'est créé, aucune donnée personnelle n'est collectée et aucune information ne nous est transmise. La session invité n'est pas conservée : elle prend fin à la fermeture de l'application.
+
+3. Compte Ddc La création d'un compte est facultative. Elle sert à synchroniser votre profil et votre clé API avec les autres applications de l'écosystème Ddc. Un compte peut être créé avec une adresse email et un mot de passe, ou à partir de votre compte Google. Lors d'une création de compte par email, la vérification de votre adresse est requise avant l'enregistrement de votre profil.
+
+4. Données collectées Aucune donnée n'est collectée en mode invité. Si vous créez un Compte Ddc, nous enregistrons votre nom, votre prénom, votre adresse email, votre date de naissance, votre clé API et un indicateur de statut de compte. Si vous vous connectez avec Google, votre adresse email et les informations de base de votre profil Google nous sont transmises par Google. Nous ne collectons ni votre position, ni vos contacts, ni de statistiques d'utilisation.
+
+5. Applications présentes sur votre appareil Pour indiquer l'état de chaque application du catalogue (installée, ou pouvant être mise à jour), Ddc Store consulte la liste des applications installées sur votre appareil. Cette lecture a lieu uniquement sur votre appareil : elle n'est ni enregistrée, ni transmise, y compris lorsque vous êtes connecté.
+
+6. Stockage et sécurité Les données de compte sont hébergées chez Firebase (Google Cloud). Sur votre appareil, votre clé API n'est jamais enregistrée en clair : elle est chiffrée au moyen d'une clé maître non exportable gérée par le système Android. Vos autres informations de profil, votre thème et votre mode d'installation sont enregistrés localement dans les préférences de l'application, et effacés lorsque vous vous déconnectez.
+
+7. Clé API Votre clé API est personnelle. Vous êtes responsable de sa confidentialité et de toute activité effectuée avec celle-ci.
+
+8. Téléchargement et installation Le catalogue et les fichiers d'installation sont téléchargés depuis un dépôt public hébergé sur GitHub. Selon le mode que vous choisissez, l'installation passe par le programme d'installation standard d'Android, qui requiert votre autorisation explicite, ou par Shizuku, une application tierce que vous installez et configurez vous-même. Vous pouvez refuser toute installation.
+
+9. Partage des données Nous ne vendons pas vos données personnelles et ne les transmettons à aucun tiers à des fins commerciales. Seuls interviennent les prestataires techniques nécessaires au fonctionnement du service : Google, pour l'authentification et l'hébergement des données, et GitHub, pour l'hébergement du catalogue et des fichiers d'installation.
+
+10. Suppression du compte Vous pouvez supprimer votre compte à tout moment depuis le menu latéral de l'application, au moyen du bouton "Supprimer mon compte". Cette action efface votre profil de notre base de données ainsi que votre compte d'authentification, et elle est irréversible. Le mode invité ne nécessite aucune suppression, puisqu'aucune donnée n'est conservée.
+
+11. Modification des conditions Ces conditions peuvent évoluer. Lorsqu'une nouvelle version est publiée, l'application vous la présente au démarrage et vous demande de l'accepter à nouveau.
