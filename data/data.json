@@ -71,12 +71,12 @@
       "auteur": "Ddc Apps"
     },
     {
-      "description": "Centralisez toutes vos recettes de desserts dans une seule application. Prends en charge une extension Marmiton pour trouver de nouvelles recettes ! Ajoutez vos recettes avec une simple photo.",
+      "description": "Centralisez toutes vos recettes de desserts dans une seule application. Prends en charge une extension Marmiton pour trouver de nouvelles recettes ! Ajoutez vos recettes avec une simple photo. En cas de doute ou de problème, demandez à DdcAI de vous aider.",
       "icon": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_logo/ddc_cook_logo.png",
       "name": "Ddc Cook",
       "packageName": "com.ddc.cook",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Ddc_Cook_stable.apk",
-      "version": "2.4",
+      "version": "3.0",
       "taille": "15",
       "auteur": "Ddc Apps"
     },
