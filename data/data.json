@@ -51,12 +51,12 @@
       "auteur": "RikkaApps"
     },
     {
-      "description": "Découvrez Ddc Chat, un chatbot d'IA dernière génération boosté par DdcAI 5.6 Donnez lui des images, PDF,... Utilisez notre modèle qui respect votre vie privée !",
+      "description": "Découvrez Ddc Chat, un chatbot d'IA dernière génération boosté par DdcAI 5.7 Donnez lui des images, PDF,... Utilisez notre modèle qui respect votre vie privée !",
       "icon": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_logo/ddc_chat_logo.png",
       "name": "Ddc Chat",
       "packageName": "com.ddc.ai.chat",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Ddc_Chat_stable.apk",
-      "version": "8.1",
+      "version": "8.2",
       "taille": "37",
       "auteur": "Ddc Apps"
     },
