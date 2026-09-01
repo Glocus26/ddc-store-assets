@@ -16,7 +16,7 @@
       "name": "Ddc Store",
       "packageName": "com.ddc.store",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Ddc_store_stable.apk",
-      "version": "9.3",
+      "version": "9.4",
       "taille": "10",
       "auteur": "Ddc Apps"
     },
@@ -76,9 +76,10 @@
       "name": "Ddc Cook",
       "packageName": "com.ddc.cook",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Ddc_Cook_stable.apk",
-      "version": "3.1",
-      "taille": "16",
-      "auteur": "Ddc Apps"
+      "version": "3.3",
+      "taille": "11",
+      "auteur": "Ddc Apps",
+      "wear_url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/wear_apk/Ddc_Cook_wear_stable.apk"
     },
     {
       "description": "Un bot pour jouer avec vous au Yathzee! même hors connexion",
