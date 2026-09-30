@@ -82,6 +82,16 @@
       "wear_url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/wear_apk/Ddc_Cook_wear_stable.apk"
     },
     {
+      "description": "Vous en avez marre des pubs par téléphone ? Utilisez Ddc CallBlock pour ne plus être dérangé pour acheter des panneaux solaires",
+      "icon": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_logo/ddc_callblock_logo.jpg",
+      "name": "Ddc CallBlock",
+      "packageName": "com.ddc.callblock",
+      "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Ddc_CallBlock_stable.apk",
+      "version": "1.0.0",
+      "taille": "47",
+      "auteur": "Ddc Apps"
+    },
+    {
       "description": "Un bot pour jouer avec vous au Yathzee! même hors connexion",
       "icon": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_logo/didi_logo.jpg",
       "name": "Didi",
