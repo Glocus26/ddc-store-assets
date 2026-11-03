@@ -41,7 +41,7 @@
       "auteur": "Ddc Apps"
     },
     {
-      "description": "App conseillé pour une meilleur utilisation du Ddc Store sans root.",
+      "description": "App conseillée pour une meilleur utilisation du Ddc Store sans root.",
       "icon": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_logo/shizuku_logo.png",
       "name": "Shizuku",
       "packageName": "moe.shizuku.privileged.api",
@@ -84,11 +84,11 @@
     {
       "description": "Vous en avez marre des pubs par téléphone ? Utilisez Ddc CallBlock pour ne plus être dérangé pour acheter des panneaux solaires",
       "icon": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_logo/ddc_callblock_logo.jpg",
-      "name": "Ddc CallBlock",
+      "name": "Ddc CallBlock (bêta)",
       "packageName": "com.ddc.callblock",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/apps_apk/Ddc_CallBlock_stable.apk",
-      "version": "1.0.0",
-      "taille": "47",
+      "version": "1.1",
+      "taille": "48",
       "auteur": "Ddc Apps"
     },
     {
