@@ -105,15 +105,33 @@
   "code_apps": [
     {
       "name": "LiquidGlass Compose (experimental)",
-      "code": "RB75",
+      "code": "LGC3",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/code_apps/LiquidGlassCompose.apk",
       "description": "Applique un mod Liquid Glass sur certaines apps en Compose"
     },
     {
       "name": "LiquidGlass Vues (experimental)",
-      "code": "BLDC",
+      "code": "LGV1",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/code_apps/LiquidGlassVues.apk",
       "description": "Applique un mod Liquid Glass sur certaines apps en Vues"
+    },
+    {
+      "name": "Pronote mod 2.0.17",
+      "code": "PR17",
+      "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/code_apps/Pronote_modifie_2.0.17.apk",
+      "description": "Version modifié de Pronote pour commencer à 13h sur son edt"
+    },
+    {
+      "name": "Ddc Finance",
+      "code": "DFBC",
+      "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/code_apps/Ddc_Finance_1.1.apk",
+      "description": "Suivi en temps réel du BitCoin et porte-feuille virtuel"
+    },
+    {
+      "name": "Ddc Box",
+      "code": "DB12",
+      "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/code_apps/Ddc_Box.apk",
+      "description": "Envoi facile de fichier via lien sur sa Freebox Revolution"
     }
   ]
 }
