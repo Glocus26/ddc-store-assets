@@ -101,5 +101,19 @@
       "taille": "7",
       "auteur": "Ddc Apps"
     }
+  ],
+  "code_apps": [
+    {
+      "name": "LiquidGlass Compose (experimental)",
+      "code": "RB75",
+      "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/code_apps/LiquidGlassCompose.apk",
+      "description": "Applique un mod Liquid Glass sur certaines apps en Compose"
+    },
+    {
+      "name": "LiquidGlass Vues (experimental)",
+      "code": "BLDC",
+      "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/code_apps/LiquidGlassVues.apk",
+      "description": "Applique un mod Liquid Glass sur certaines apps en Vues"
+    }
   ]
 }
