@@ -128,6 +128,24 @@
       "description": "Suivi en temps réel du BitCoin et porte-feuille virtuel"
     },
     {
+      "name": "GPhoto Unimited Backup v5",
+      "code": "GUB5",
+      "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/code_apps/GPhotosUnlimited-v5.zip",
+      "description": "Spoof GPhoto app into Pixel XL (root)"
+    },
+    {
+      "name": "Valorant BootAnimation",
+      "code": "VBAR",
+      "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/code_apps/Valorant.zip",
+      "description": "Valorant BootAnimation for Android (root)"
+    },
+    {
+      "name": "Sui",
+      "code": "5SZ9",
+      "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/code_apps/sui-zygisk-v13.5.1-release.zip",
+      "description": "Module alternatif à Shizuku pour root"
+    },
+    {
       "name": "Ddc Box",
       "code": "DB12",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/code_apps/Ddc_Box.apk",
