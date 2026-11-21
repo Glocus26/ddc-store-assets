@@ -124,7 +124,7 @@
     {
       "name": "Ddc Finance",
       "code": "DFBC",
-      "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/code_apps/Ddc_Finance_1.1.apk",
+      "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/code_apps/Ddc_Finance_1.2.apk",
       "description": "Suivi en temps réel du BitCoin et porte-feuille virtuel"
     },
     {
@@ -144,6 +144,12 @@
       "code": "5SZ9",
       "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/code_apps/sui-zygisk-v13.5.1-release.zip",
       "description": "Module alternatif à Shizuku pour root"
+    },
+    {
+      "name": "DockPixelLauncher",
+      "code": "T89G",
+      "url": "https://raw.githubusercontent.com/Glocus26/ddc-store-assets/main/code_apps/DockPixelLauncher.apk",
+      "description": "Permet de changer la barre de recherche du dock de Pixel Launcher (testé sur Android 17)"
     },
     {
       "name": "Ddc Box",
